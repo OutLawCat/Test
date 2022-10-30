@@ -1,0 +1,34 @@
+
+html li {
+    color: aqua;
+}
+
+html h1 {
+    font-weight: bolder;
+}
+
+.font-size-md.color-blue {
+    color: rgb(109, 94, 248);
+}
+html {
+    background-color: rgb(202, 202, 202);
+}
+html ins {
+    color: rgb(109, 94, 248);
+}
+
+html button {
+    color: rgb(59, 216, 216);
+}
+html button {
+    font-size: 35px;
+}
+html h3 {
+    color:rgb(48, 38, 56)
+}
+html em {
+    color: rgb(84, 72, 255);
+}
+.Block1 {
+    text-align: center;
+}
